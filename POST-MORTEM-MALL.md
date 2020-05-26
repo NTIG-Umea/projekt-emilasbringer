@@ -16,7 +16,7 @@ OmegaFastDeathRun
     Planneringen av arbetet gick bra och to-do listen var väldigt hjälpsam för att arbeta effektivt och inte komma av sig. Det var mest hjälpsamnt i början och i mitten av projektet. Sen mot slutet så var det så få grejer kvar att göra att jag inte riktigt behövde en struktur.
     Min plannering säger vad jag ska jobba på i mitt spel, så i början så var det kontroller, rörelse och kollisioner som jag arbetade på sedan i mitten så var det levels animationer, bakrunder och texturer. I slutet så var det enkla grejer som title scren och timer även fast jag inte han klart.
     
-    * Positiva erfarenheter
+* Positiva erfarenheter
     - Här beskriver du vad som har gått bra i ditt projekt och analyserar varför.
     Enligt mig så var det lätt att navigera sig runt spelmotorn. Alla funktioner hade namn som förklarade vad funktionen gjorde och det fanns en hjälpguide för varje funktion som motorn erbjöd. Det var allmänt sätt en straight-forward spelmotor 
 
